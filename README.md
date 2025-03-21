@@ -229,20 +229,24 @@ Running MMR-based retrieval and querying the LLM...
 ========================================
 Query: What is Philip's proposal focused on, and can you provided details about the proposal?
 
-Answer: Based on the provided context, it appears that Philip's proposal is focused on consolidating physical financial
-positions and transport trade capture. The proposal aims to bring together various aspects of the company's operations
-and create a project plan to achieve this goal.
+Answer: Based on the provided context, it appears that Philip's proposal is focused on
+consolidating physical financial positions and transport trade capture. The proposal
+aims to bring together various aspects of the company's operations and create a project
+plan to achieve this goal.
 
-The proposal suggests that the project will involve the consolidation of physical financial positions and transport
-trade capture, as well as addressing other issues that have been raised. The proposal also mentions that the other
-issues will be captured as separate projects and will need to be prioritized outside of this project.
+The proposal suggests that the project will involve the consolidation of physical
+financial positions and transport trade capture, as well as addressing other issues
+that have been raised. The proposal also mentions that the other issues will be
+captured as separate projects and will need to be prioritized outside of this project.
 
-Philip has been involved in most of the meetings and discussions related to this proposal, and he believes that the
-discussions have been good. He also mentions that there is a very short window of opportunity to move forward with this
-project, and that if it is of serious interest to Philip, he will need to know as soon as possible.
+Philip has been involved in most of the meetings and discussions related to this
+proposal, and he believes that the discussions have been good. He also mentions that
+there is a very short window of opportunity to move forward with this project, and
+that if it is of serious interest to Philip, he will need to know as soon as possible.
 
-Overall, Philip's proposal appears to be focused on streamlining the company's operations and creating a more efficient
-and effective way of managing physical financial positions and transport trade capture.
+Overall, Philip's proposal appears to be focused on streamlining the company's operations
+and creating a more efficient and effective way of managing physical financial positions
+and transport trade capture.
 ========================================
 
 Retrieved Chunks with Cosine Similarity:
