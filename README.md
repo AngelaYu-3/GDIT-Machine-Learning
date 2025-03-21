@@ -98,10 +98,11 @@ accounts customer using Honeywell's microturbine product, which generates electr
 using natural gas. You are seeking a corresponding term gas price for the same, specifically
 for a 1, 2, 3, and 4-year annual seasonal supply to microturbines to generate fixed kWh for the customer.
 
-In the context of your phone conversation, you mentioned that you need a fixed price forward gas price
-deal to make the deal work, and that Sempra Energy Gas Trading is involved. You also provided some details
-about the installation, including the number of units across various stores in San Diego, the run time gas
-requirement, and the gas consumption pattern (peak period May-September).
+In the context of your phone conversation, you mentioned that you need a fixed price forward
+gas price deal to make the deal work, and that Sempra Energy Gas Trading is involved. You also
+provided some details about the installation, including the number of units across various
+stores in San Diego, the run time gas requirement, and the gas consumption pattern
+(peak period May-September).
 
 To answer your question directly, I would say that I don't have enough context to provide a detailed
 answer about the microturbine power generation deal without more information. However, I can suggest
