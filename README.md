@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This project is collaboration with UMD App-Development club, contracted by General Dynamics Information Technology. The script creates a ner-chunking based strategy for the development of a RAG (retrieval-augmented generation) LLM for an Email-AI querying chat bot.
+This project is collaboration with UMD App-Development club, contracted by General Dynamics Information Technology. The script creates a NER-chunking based strategy for the development of a RAG (retrieval-augmented generation) LLM for an Email-AI querying chat bot.
 
 This script uses GliNER NER labeling, TF-IDF and Entity Consistency scores to develop the best chunking strategy. Through this script, we found that using a chunk size of 300 characters and an overlap of 250 characters resulted in the best TF-IDF and Entity Consistency Scores. We then used Microsoft E5 Embedding to create the vector-database with these chunks, using Google Colab to leverage GPUs to make this process timely. We then used cosine-similarity and the MMR metric to ensure we are getting the most relevant vectors from the vector database with respect to our incoming query. Finally, we used Llama3 8B to test our RAG pipeline, giving it inputs and inspecting the various outputs.
 
