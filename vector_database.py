@@ -14,7 +14,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 df = pd.read_csv('data/best_chunking_strategy.csv')
 faiss_index = "index_all"
-new_dataframe = False
+new_dataframe = True
 test_questions = [
     "What does randy need to send a schedule of?",
     "What are some of randy's action items?",
