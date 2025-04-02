@@ -10,10 +10,15 @@ client = QdrantClient("localhost", port=6333)  # Replace with cloud URL if using
 # all-MiniLM-L6-v2 produces vectors with 384 dimensions
 vector_size = 384
 
+# Check if collection exists before trying to create it
+if client.collection_exists("my_collection"):
+    client.delete_collection("my_collection")
+    print("Deleted existing collection")
+
 # Create the collection
-client.recreate_collection(
+client.create_collection(
     collection_name="my_collection",
-    vectors_config=VectorParams(size=vector_size, distance=Distance.COSINE)
+    vectors_config=VectorParams(size=384, distance=Distance.COSINE)
 )
 
 # Load the model
