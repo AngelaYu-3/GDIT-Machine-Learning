@@ -9,7 +9,7 @@ from langchain.chains.retrieval import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_groq import ChatGroq
 
-os.environ["GROQ_API_KEY"]= "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"
+os.environ["GROQ_API_KEY"]= ""
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 df = pd.read_csv('data/best_chunking_strategy.csv')
